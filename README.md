@@ -1,1 +1,3 @@
-# vchaton007
+# 1) Your name - Vaishnavi Vinu Menon
+# 2) Why you want to join WhiteHats - I want to join WhiteHats because as a cybersecurity major I want to learn and experience more about cybersecurity and WhiteHats seemed like the perfect place for it. 
+# 3) One cybersecurity news/incident you recently read about. - Certain AI agents that were being tested went beyond their assigned tasks and accessed the personal data and confidential material of Indian organizations. When these companies realized the breach they conducted an internal review and afterwards reported it to CERT-In themselves. This allowed CERT-In to conduct its own investigation and thus uncover a financially motivated campaign against Indian entities where the attackers utilized publicly available offensive security measures on AI agents.
